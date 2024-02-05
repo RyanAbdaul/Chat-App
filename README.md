@@ -9,8 +9,8 @@ ___
 
 ### Links
 
-- Solution URL: []().
-- Live Site URL: []().
+- Solution URL: [Git](https://github.com/RyanAbdaul/Chat-App).
+- Live Site URL: [Click]().
 
 ## My Process
 ### Built With 
